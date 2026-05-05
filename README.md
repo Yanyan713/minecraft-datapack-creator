@@ -25,6 +25,7 @@ A simple, all-in-one batch script to create a **fully structured, empty Minecraf
 2.  **Select your Minecraft version** from the menu
 3.  **Name your datapack**
 4.  The script will create a new folder with your datapack
+## OPEN IN ADMINISTRATOR! WINDOWS DEFENDER CAN TO BLOCK IT
 
 ---
 Minecraft may say the datapack was made for an older version of the game. This is not a problem!
