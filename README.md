@@ -27,6 +27,8 @@ A simple, all-in-one batch script to create a **fully structured, empty Minecraf
 4.  The script will create a new folder with your datapack
 
 ---
+Minecraft may say the datapack was made for an older version of the game. This is not a problem!
+---
 
 ## Installation
   1. Place the generated folder into:
